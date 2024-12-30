@@ -1,4 +1,5 @@
 **RockyBot**
+
 Its an AI-powered news research tool that allows users to analyze multiple news articles simultaneously. It uses the Llama Language Model through Hugging Face's API to provide accurate answers to questions about the article contents
 
 
